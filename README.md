@@ -67,6 +67,12 @@ To write and execute an Assembly language program for finding the cube of a give
 <img width="1079" height="725" alt="image" src="https://github.com/user-attachments/assets/64196cd1-f90d-4b10-b818-b5e7801e58b3" />
 
 
+
+
+
+
+
+
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
 
